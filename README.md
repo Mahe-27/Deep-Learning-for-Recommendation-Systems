@@ -1,5 +1,6 @@
-
 # Deep-Learning-for-Recommendation-Systems
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMahe-27%2FDeep-Learning-for-Recommendation-Systems.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMahe-27%2FDeep-Learning-for-Recommendation-Systems?ref=badge_shield)
+
 This repository contains Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
 ## Papers
 
@@ -119,3 +120,7 @@ Source: https://www.manning.com/books/practical-recommender-systems
 Source: https://dl.acm.org/citation.cfm?id=1941884
 
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMahe-27%2FDeep-Learning-for-Recommendation-Systems.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMahe-27%2FDeep-Learning-for-Recommendation-Systems?ref=badge_large)
